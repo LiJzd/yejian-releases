@@ -1,0 +1,16 @@
+页间 / Yejian
+Copyright (c) 2026 LiJzd and contributors. Project-authored code is MIT licensed.
+
+The Android application derives from xnotes, Copyright (c) 2026 Shardul Vikram
+Singh, MIT License. Its original notice is preserved in android/LICENSE.
+
+Third-party code, fonts, runtime binaries and generated bundles retain their
+own licenses. The root MIT license does not replace those terms. In particular:
+- Android: android/app/src/main/assets/licenses/ and android/LICENSE
+- Web: public/assets/dependency-licenses.txt and dependency package licenses
+- Cordis / Cosmokit / QuickJS: tools/plugin-runtime/vendor/ (including provenance)
+- PowerPoint: powerpoint-addin/ and license notices shipped with its packages
+- Distributed Windows runtimes: their LICENSE / NOTICE files in the package
+
+Copies and derivatives must preserve the relevant upstream notices. Source
+availability does not grant rights to third-party trademarks or user content.
